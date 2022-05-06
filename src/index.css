@@ -1,0 +1,47 @@
+* {
+  
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+    background-color: rgb(169, 248, 248);
+}
+
+.maxAltoImg{
+  max-height: 180px;
+}
+
+.margenesTarjeta{
+  margin: auto;
+}
+
+.minAltoImg{
+  min-height: 300px;
+  max-height: 300px;
+  min-width: 400px;
+  max-width: 400px;
+}
+.center{
+  margin: auto;
+  width: 100%;
+  border: 3px solid blue;
+  padding: 10px;
+  background-color: blue;
+  font-style: italic;
+}
+.center90{
+  margin: auto;
+  width: 90%;
+  padding: 10px;
+}
+.txtJustificado{
+  text-align: justify;
+}
+.principal{
+  color:rgb(48, 5, 5);
+}
